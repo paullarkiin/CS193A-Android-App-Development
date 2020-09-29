@@ -1,4 +1,4 @@
-# Personal Notes, Exercises and Materials from Stanford Android App Development - 2019
+# Personal Notes, Exercises and Materials from Stanford Android App Development
 All materials are from my personal experience watching through the lectures and doing exercises, either describe during a lecture or from the website. 
 
 Lectures can be found on youtube [Link](https://www.youtube.com/playlist?list=PL9e86ryplAsCGw4qxRU3xYD-n_T_XfnUr)

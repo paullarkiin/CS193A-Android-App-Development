@@ -1,0 +1,2 @@
+rootProject.name='WoW Classes'
+include ':app'

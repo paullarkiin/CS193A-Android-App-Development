@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">WoW Classes</string>
+    
+    <string-array name="classes">
+        <item>Druid</item>
+        <item>Monk</item>
+        <item>Paladin</item>
+        <item>Death Knight</item>
+
+    </string-array>
+</resources>
